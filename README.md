@@ -11,7 +11,24 @@ future/study-plan-75-level-01
 | 0001   |[Two Sum](src/main/java/easy/p1__200/problem0001)| Easy |
 | 0009   |[Palindrome Number](src/main/java/easy/p1__200/prob)| Easy |
 | 0013   |[Roman to Integer](src/main/java/easy/p1__200/prob)| Easy |
+| 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/prob)| Easy |
 
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
