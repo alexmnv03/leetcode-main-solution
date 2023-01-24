@@ -1,4 +1,4 @@
-package easy.p600__800;
+package easy.p601__800;
 
 public class Solution724 {
     public int pivotIndex(int[] nums) {

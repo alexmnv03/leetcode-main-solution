@@ -18,7 +18,9 @@ future/study-plan-75-level-01
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+
+| 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
+
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
@@ -32,7 +34,7 @@ future/study-plan-75-level-01
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0724   |[Find Pivot Index](src/main/java/easy/p1__200/prob)| Easy |
-| 1480   |[Running Sum of 1d Array](src/main/java/easy/p1400__1600/problem1480)| Easy |
+| 1480   |[Running Sum of 1d Array](src/main/java/easy/p1401__1600/problem1480)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 
 
