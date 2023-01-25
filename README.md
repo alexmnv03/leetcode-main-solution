@@ -21,7 +21,7 @@ future/study-plan-75-level-01
 
 | 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
 
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0392   |[Is Subsequence](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
