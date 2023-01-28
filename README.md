@@ -12,9 +12,10 @@ future/study-plan-75-level-01
 | 0009   |[Palindrome Number](src/main/java/easy/p1__200/prob)| Easy |
 | 0013   |[Roman to Integer](src/main/java/easy/p1__200/prob)| Easy |
 | 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/prob)| Easy |
+| 0021   |[Merge Two Sorted Lists](src/main/java/easy/p1__200/prob)| Easy |
 | 0035   |[Search Insert Position](src/main/java/easy/p1__200/prob)| Easy |
 
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
