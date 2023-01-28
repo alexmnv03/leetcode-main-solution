@@ -1,4 +1,4 @@
-package easy.p1400__1600.problem1480;
+package easy.p1401__1600.problem1480;
 
 public class Solution1480 {
 
