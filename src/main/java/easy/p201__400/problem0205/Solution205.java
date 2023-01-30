@@ -1,4 +1,4 @@
-package easy.p201__400;
+package easy.p201__400.problem0205;
 
 import java.util.HashMap;
 import java.util.Map;
