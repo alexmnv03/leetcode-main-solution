@@ -2,7 +2,7 @@ package easy.p801__1000;
 
 import common.ListNode;
 
-public class problem0876 {
+public class Solution876 {
 
     // Решим задачу с помощью двух указателей
     public ListNode middleNode(ListNode head) {

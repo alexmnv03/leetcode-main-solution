@@ -15,7 +15,7 @@ future/study-plan-75-level-01-next
 | 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/prob)| Easy |
 | 0021   |[Merge Two Sorted Lists](src/main/java/easy/p1__200/prob)| Easy |
 | 0035   |[Search Insert Position](src/main/java/easy/p1__200/prob)| Easy |
-
+| 0142   |[Linked List Cycle II](src/main/java/easy/p1__200/prob)| Medium |
 
 
 | 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
@@ -23,7 +23,7 @@ future/study-plan-75-level-01-next
 
 | 0392   |[Is Subsequence](src/main/java/easy/p1__200/prob)| Easy |
 
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
