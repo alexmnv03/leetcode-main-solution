@@ -24,10 +24,10 @@ future/study-plan-75-level-01-next
 
 | 0392   |[Is Subsequence](src/main/java/easy/p1__200/prob)| Easy |
 | 0409   |[Longest Palindrome](src/main/java/easy/p1__200/prob)| Easy |
+| 0589   |[N-ary Tree Preorder Traversal](src/main/java/easy/p1__200/prob)| Easy |
 
 
 
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
