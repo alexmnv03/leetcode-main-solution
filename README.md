@@ -26,14 +26,11 @@ future/study-plan-75-level-01-next
 | 0392   |[Is Subsequence](src/main/java/easy/p1__200/prob)| Easy |
 | 0409   |[Longest Palindrome](src/main/java/easy/p1__200/prob)| Easy |
 | 0589   |[N-ary Tree Preorder Traversal](src/main/java/easy/p1__200/prob)| Easy |
+| 0704   |[Binary Search](src/main/java/easy/p1__200/prob)| Easy |
 
 
 
 
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 
 | 0724   |[Find Pivot Index](src/main/java/easy/p1__200/prob)| Easy |
 | 0876   |[Middle of the Linked List](src/main/java/easy/p1__200/prob)| Easy |
@@ -49,8 +46,12 @@ future/study-plan-75-level-01-next
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0100 |[Evaluate Reverse Polish Notation](src.
-save/main/java/g0101_0200/s0150_evaluate_reverse_polish_notation/Solution.java)| Medium | Top_Interview_Questions, Array, Math, Stack | 9 | 51.23
-| 0066 |[Plus One](src.save/main/java/100/_plus_one/Solution.java)| Easy | Top_Interview_Questions, Array, Math | 0 | 100.00
+
+
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+
+
 
 [In progress](https) - progress
