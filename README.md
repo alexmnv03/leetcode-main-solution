@@ -1,6 +1,6 @@
 # leetcode-main-solution
 
-## Мои решения задач с leetcode
+## Мои решения задач с сайта [leetcode](https://leetcode.com/)
 
 Тут представлены мои решения задач на языке Java с небольшими комментариями
 
