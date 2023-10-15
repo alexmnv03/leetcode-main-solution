@@ -7,6 +7,7 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
+
 | Номер  | название/ссылка   | уровень |
 |-|-|-|
 | 0001   |[Two Sum](src/main/java/easy/p1__200/problem0001)| Easy |
