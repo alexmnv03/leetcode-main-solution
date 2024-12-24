@@ -7,6 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
+### Уровень Easy
+
 | Номер  | название/ссылка   | уровень |
 |-|-|-|
 | 0001   |[Two Sum](src/main/java/easy/p1__200/problem0001)| Easy |
@@ -15,11 +17,8 @@ future/study-plan-75-level-01-three
 | 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/prob)| Easy |
 | 0021   |[Merge Two Sorted Lists](src/main/java/easy/p1__200/prob)| Easy |
 | 0035   |[Search Insert Position](src/main/java/easy/p1__200/prob)| Easy |
-| 0098   |[Validate Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
-| 0102   |[Binary Tree Level Order Traversal](src/main/java/easy/p1__200/prob)| Medium |
-| 0121   |[Best Time to Buy and Sell Stock](src/main/java/easy/p1__200/prob)| Easy |
-| 0142   |[Linked List Cycle II](src/main/java/easy/p1__200/prob)| Medium |
 
+| 0121   |[Best Time to Buy and Sell Stock](src/main/java/easy/p1__200/prob)| Easy |
 
 | 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
 | 0206   |[Reverse Linked List](src/main/java/easy/p1__200/prob)| Easy |
@@ -37,6 +36,14 @@ future/study-plan-75-level-01-three
 | 0876   |[Middle of the Linked List](src/main/java/easy/p1__200/prob)| Easy |
 | 1480   |[Running Sum of 1d Array](src/main/java/easy/p1401__1600/problem1480)| Easy |
 
+
+### Уровень Medium
+| Номер  | название/ссылка   | уровень |
+|-|-|-|
+| 0098   |[Validate Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
+| 0102   |[Binary Tree Level Order Traversal](src/main/java/easy/p1__200/prob)| Medium |
+| 0142   |[Linked List Cycle II](src/main/java/easy/p1__200/prob)| Medium |
+| 0200   |[Number of Islands](src/main/java/easy/p1__200/prob)| Medium |
 
 
 
