@@ -44,7 +44,7 @@ future/study-plan-75-level-01-three
 | 0102   |[Binary Tree Level Order Traversal](src/main/java/easy/p1__200/prob)| Medium |
 | 0142   |[Linked List Cycle II](src/main/java/easy/p1__200/prob)| Medium |
 | 0200   |[Number of Islands](src/main/java/easy/p1__200/prob)| Medium |
-
+| 0235   |[Lowest Common Ancestor of a Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
 
 
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
