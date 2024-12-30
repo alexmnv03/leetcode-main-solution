@@ -1,4 +1,4 @@
-package easy.p801__1000;
+package easy.p801__1000.problem876;
 
 import common.ListNode;
 
