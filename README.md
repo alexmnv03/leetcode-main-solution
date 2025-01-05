@@ -18,6 +18,7 @@ future/add-733
 | 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/prob)| Easy |
 | 0020   |[Valid Parentheses](src/main/java/easy/p1__200/prob)| Easy |
 | 0021   |[Merge Two Sorted Lists](src/main/java/easy/p1__200/prob)| Easy |
+| 0027   |[Remove Element](src/main/java/easy/p1__200/prob)| Easy |
 | 0026   |[Remove Duplicates from Sorted Array](src/main/java/easy/p1__200/prob)| Easy |
 | 0035   |[Search Insert Position](src/main/java/easy/p1__200/prob)| Easy |
 
