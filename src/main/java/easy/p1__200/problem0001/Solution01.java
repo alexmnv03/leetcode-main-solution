@@ -1,5 +1,8 @@
 package easy.p1__200.problem0001;
 
+import static org.junit.Assert.assertArrayEquals;
+import static org.junit.Assert.assertEquals;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -7,13 +10,17 @@ import java.util.Map;
 public class Solution01 {
 
     public static int[] twoSumTest(int[] nums, int target) {
-        return new int[]{2, 7, 11, 15};
+        return new int[]{0, 1};
     }
 
     public static void main(String[] args) {
+        int[] correctDecision = new int[]{0, 1};
         int[] nums = new int[]{2, 7, 11, 15};
         int target = 9;
         System.out.println(Arrays.toString(twoSum(nums, target)));
+
+        assertArrayEquals(correctDecision, twoSum(nums, target));
+        assertArrayEquals(correctDecision, twoSumTest(nums, target));
     }
 
     // Самы простой вариант решения путем перебора всех чисел

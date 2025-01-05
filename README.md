@@ -6,7 +6,8 @@
 
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
-future/add-733
+future/add-27
+future/refactor-01
 
 ### Уровень Easy
 
