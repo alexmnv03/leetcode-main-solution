@@ -6,7 +6,11 @@
 
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
+
+28. add
 future/add-27
+
+01. refactor
 future/refactor-01
 
 ### Уровень Easy
@@ -19,8 +23,9 @@ future/refactor-01
 | 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/prob)| Easy |
 | 0020   |[Valid Parentheses](src/main/java/easy/p1__200/prob)| Easy |
 | 0021   |[Merge Two Sorted Lists](src/main/java/easy/p1__200/prob)| Easy |
-| 0027   |[Remove Element](src/main/java/easy/p1__200/prob)| Easy |
 | 0026   |[Remove Duplicates from Sorted Array](src/main/java/easy/p1__200/prob)| Easy |
+| 0027   |[Remove Element](src/main/java/easy/p1__200/prob)| Easy |
+| 0028   |[28. Find the Index of the First Occurrence](src/main/java/easy/p1__200/prob)| Easy |
 | 0035   |[Search Insert Position](src/main/java/easy/p1__200/prob)| Easy |
 
 | 0121   |[Best Time to Buy and Sell Stock](src/main/java/easy/p1__200/prob)| Easy |
