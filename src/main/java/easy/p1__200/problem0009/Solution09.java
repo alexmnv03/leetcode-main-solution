@@ -1,9 +1,45 @@
 package easy.p1__200.problem0009;
 
+import static org.junit.Assert.assertArrayEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
 public class Solution09 {
+
+    public static boolean isPalindromeTest(int x) {
+        return true;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(isPalindrome(-1));
+        System.out.println(isPalindrome(10010));
+
+        System.out.println(isPalindrome(0));
+        System.out.println(isPalindrome(11));
+        System.out.println(isPalindrome(111));
+        System.out.println(isPalindrome(222222222));
+
+        assertFalse(isPalindrome(-1));
+        assertFalse(isPalindrome(10010));
+
+        assertTrue(isPalindrome(0));
+        assertTrue(isPalindrome(11));
+        assertTrue(isPalindrome(111));
+        assertTrue(isPalindrome(222222222));
+
+        //assertFalse(isPalindromeTest(-1));
+        //assertFalse(isPalindromeTest(10010));
+
+        assertTrue(isPalindromeTest(0));
+        assertTrue(isPalindromeTest(11));
+        assertTrue(isPalindromeTest(111));
+        assertTrue(isPalindromeTest(222222222));
+
+    }
+    
     // Самый простой вариант - преобразуем в строку в цикле переворачиваем ее и сравниваем
     // по скорости 6,29%
-    public boolean isPalindrome(int x) {
+    public static boolean isPalindrome(int x) {
         if (x < 0)
             return false;
         String str = String.valueOf(x);
