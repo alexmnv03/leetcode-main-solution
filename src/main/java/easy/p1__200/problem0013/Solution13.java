@@ -1,9 +1,25 @@
 package easy.p1__200.problem0013;
 
+import static org.junit.Assert.assertEquals;
+
 import java.util.Map;
 
 public class Solution13 {
-    public int romanToInt(String s) {
+
+    public static int romanToIntTest(String s) {
+        return romanToInt(s);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(romanToInt("DCXXI"));// 621
+        System.out.println(romanToInt("CCCXLVIII"));// 348
+        assertEquals(621, romanToInt("DCXXI"));
+        assertEquals(348, romanToInt("CCCXLVIII"));
+        assertEquals(621, romanToIntTest("DCXXI"));
+        assertEquals(348, romanToIntTest("CCCXLVIII"));
+    }
+
+    public static int romanToInt(String s) {
         Map<Character, Integer> data = Map.of(
                 'I', 1,
                 'V', 5,
