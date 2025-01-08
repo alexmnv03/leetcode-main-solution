@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-58. add problem
-future/add-58
+66. add problem
+future/add-66
 
 9. refactor
 future/refactor-09
@@ -28,7 +28,10 @@ future/refactor-09
 | 0028   |[28. Find the Index of the First Occurrence](src/main/java/easy/p1__200/prob)| Easy |
 | 0035   |[Search Insert Position](src/main/java/easy/p1__200/prob)| Easy |
 | 0058   |[Length of Last Word](src/main/java/easy/p1__200/prob)| Easy |
+| 0066   |[Plus One](src/main/java/easy/p1__200/prob)| Easy |
 
+
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0121   |[Best Time to Buy and Sell Stock](src/main/java/easy/p1__200/prob)| Easy |
 
 | 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
