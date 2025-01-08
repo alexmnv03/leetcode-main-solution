@@ -10,7 +10,7 @@ import java.util.Map;
 public class Solution01 {
 
     public static int[] twoSumTest(int[] nums, int target) {
-        return new int[]{0, 1};
+        return twoSum(nums, target);
     }
 
     public static void main(String[] args) {

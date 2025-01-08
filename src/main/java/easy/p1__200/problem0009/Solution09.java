@@ -7,7 +7,7 @@ import static org.junit.Assert.assertTrue;
 public class Solution09 {
 
     public static boolean isPalindromeTest(int x) {
-        return true;
+        return isPalindrome(x);
     }
 
     public static void main(String[] args) {
@@ -27,8 +27,8 @@ public class Solution09 {
         assertTrue(isPalindrome(111));
         assertTrue(isPalindrome(222222222));
 
-        //assertFalse(isPalindromeTest(-1));
-        //assertFalse(isPalindromeTest(10010));
+        assertFalse(isPalindromeTest(-1));
+        assertFalse(isPalindromeTest(10010));
 
         assertTrue(isPalindromeTest(0));
         assertTrue(isPalindromeTest(11));
