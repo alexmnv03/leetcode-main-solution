@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-67. add problem
-future/add-67
+69. add problem
+future/add-69
 
 13. refactor
 future/refactor-13
@@ -30,7 +30,7 @@ future/refactor-13
 | 0058   |[Length of Last Word](src/main/java/easy/p1__200/prob)| Easy |
 | 0066   |[Plus One](src/main/java/easy/p1__200/prob)| Easy |
 | 0067   |[Add Binary](src/main/java/easy/p1__200/prob)| Easy |
-
+| 0069   |[Sqrt(x)](src/main/java/easy/p1__200/prob)| Easy |
 
 
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
