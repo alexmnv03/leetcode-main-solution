@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-69. add problem
-future/add-69
+70. add problem
+future/add-70
 
 14. refactor
 future/refactor-14
@@ -31,6 +31,7 @@ future/refactor-14
 | 0066   |[Plus One](src/main/java/easy/p1__200/prob)| Easy |
 | 0067   |[Add Binary](src/main/java/easy/p1__200/prob)| Easy |
 | 0069   |[Sqrt(x)](src/main/java/easy/p1__200/prob)| Easy |
+| 0070   |[Climbing Stairs](src/main/java/easy/p1__200/prob)| Easy |
 
 
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
