@@ -1,8 +1,27 @@
 package easy.p1__200.problem0014;
 
+import static org.junit.Assert.assertEquals;
+
 public class Solution14 {
 
-    public String longestCommonPrefix(String[] strs) {
+    public static String longestCommonPrefixTest(String[] strs) {
+        return longestCommonPrefix(strs);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(longestCommonPrefix(new String[]{"abc", "abcd", "ab"}));
+        System.out.println(longestCommonPrefix(new String[]{"flower","flow","flight"}));
+        System.out.println(longestCommonPrefix(new String[]{"dog","racecar","car"}));
+        assertEquals("ab", longestCommonPrefix(new String[]{"abc", "abcd", "ab"}));
+        assertEquals("fl", longestCommonPrefix(new String[]{"flower","flow","flight"}));
+        assertEquals("", longestCommonPrefix(new String[]{"dog","racecar","car"}));
+
+        assertEquals("ab", longestCommonPrefixTest(new String[]{"abc", "abcd", "ab"}));
+        assertEquals("fl", longestCommonPrefixTest(new String[]{"flower","flow","flight"}));
+        assertEquals("", longestCommonPrefixTest(new String[]{"dog","racecar","car"}));
+    }
+
+    public static String longestCommonPrefix(String[] strs) {
         if (strs.length < 1) {
             return "";
         }
