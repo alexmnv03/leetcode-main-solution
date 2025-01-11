@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-88. add problem
-future/add-88
+94. add problem
+future/add-94
 
 14. refactor
 future/refactor-14
