@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-100. add problem
-future/add-100
+101. add problem
+future/add-101
 
 14. refactor
 future/refactor-14
@@ -34,6 +34,8 @@ future/refactor-14
 | 0070   |[Climbing Stairs](src/main/java/easy/p1__200/prob)| Easy |
 | 0088   |[Merge Sorted Array](src/main/java/easy/p1__200/prob)| Easy |
 | 0094   |[Binary Tree Inorder Traversal](src/main/java/easy/p1__200/prob)| Easy |
+| 0100   |[Same Tree](src/main/java/easy/p1__200/prob)| Easy |
+
 
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 | 0121   |[Best Time to Buy and Sell Stock](src/main/java/easy/p1__200/prob)| Easy |
