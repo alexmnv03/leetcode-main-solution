@@ -8,7 +8,7 @@ future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
 101. add problem
-future/add-101
+future/add-104
 
 14. refactor
 future/refactor-14
@@ -35,6 +35,7 @@ future/refactor-14
 | 0088   |[Merge Sorted Array](src/main/java/easy/p1__200/prob)| Easy |
 | 0094   |[Binary Tree Inorder Traversal](src/main/java/easy/p1__200/prob)| Easy |
 | 0100   |[Same Tree](src/main/java/easy/p1__200/prob)| Easy |
+| 0101   |[Symmetric Tree](src/main/java/easy/p1__200/prob)| Easy |
 
 
 | 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
