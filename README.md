@@ -8,7 +8,7 @@ future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
 101. add problem
-future/add-111
+future/add-112
 
 14. refactor
 future/refactor-14
@@ -39,6 +39,7 @@ future/refactor-14
 | 0104   |[Maximum Depth of Binary Tree](src/main/java/easy/p1__200/prob)| Easy |
 | 0108   |[Convert Sorted Array to Binary Search Tree](src/main/java/easy/p1__200/prob)| Easy |
 | 0110   |[Balanced Binary Tree](src/main/java/easy/p1__200/prob)| Easy |
+| 0111   |[Minimum Depth of Binary Tree](src/main/java/easy/p1__200/prob)| Easy |
 
 
 | 0110   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
