@@ -8,7 +8,7 @@ future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
 101. add problem
-future/add-119
+future/add-121
 
 14. refactor
 future/refactor-14
@@ -42,6 +42,7 @@ future/refactor-14
 | 0111   |[Minimum Depth of Binary Tree](src/main/java/easy/p1__200/prob)| Easy |
 | 0112   |[Path Sum](src/main/java/easy/p1__200/prob)| Easy |
 | 0118   |[Pascal's Triangle](src/main/java/easy/p1__200/prob)| Easy |
+| 0119   |[Pascal's Triangle II](src/main/java/easy/p1__200/prob)| Easy |
 
 
 | 0110   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
