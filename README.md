@@ -8,7 +8,7 @@ future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
 101. add problem
-future/add-136
+future/add-141
 
 14. refactor
 future/refactor-14
@@ -45,9 +45,10 @@ future/refactor-14
 | 0119   |[Pascal's Triangle II](src/main/java/easy/p1__200/prob)| Easy |
 | 0121   |[Best Time to Buy and Sell Stock](src/main/java/easy/p1__200/prob)| Easy |
 | 0125   |[Valid Palindrome](src/main/java/easy/p1__200/prob)| Easy |
+| 0136   |[Single Number](src/main/java/easy/p1__200/prob)| Easy |
 
 
-| 0120   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0130   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 
 | 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
 | 0206   |[Reverse Linked List](src/main/java/easy/p1__200/prob)| Easy |
