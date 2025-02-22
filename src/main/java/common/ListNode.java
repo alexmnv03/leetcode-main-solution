@@ -21,6 +21,10 @@ public class ListNode {
         return listNode[0];
     }
 
+    public int val() {
+        return val;
+    }
+
     public static void print(ListNode listNode) {
         if (listNode == null) {
             System.out.println("null");
