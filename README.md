@@ -8,7 +8,7 @@ future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
 101. add problem
-future/add-169
+future/add-171
 
 14. refactor
 future/refactor-14
@@ -51,6 +51,7 @@ future/refactor-14
 | 0145   |[Binary Tree Postorder Traversal](src/main/java/easy/p1__200/prob)| Easy |
 | 0160   |[Intersection of Two Linked Lists](src/main/java/easy/p1__200/prob)| Easy |
 | 0168   |[Excel Sheet Column Title](src/main/java/easy/p1__200/prob)| Easy |
+| 0169   |[Majority Element](src/main/java/easy/p1__200/prob)| Easy |
 
 
 | 0160   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
