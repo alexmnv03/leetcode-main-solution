@@ -8,7 +8,7 @@ future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
 101. add problem
-future/add-171
+future/add-190
 
 14. refactor
 future/refactor-14
@@ -52,9 +52,10 @@ future/refactor-14
 | 0160   |[Intersection of Two Linked Lists](src/main/java/easy/p1__200/prob)| Easy |
 | 0168   |[Excel Sheet Column Title](src/main/java/easy/p1__200/prob)| Easy |
 | 0169   |[Majority Element](src/main/java/easy/p1__200/prob)| Easy |
+| 0171   |[Excel Sheet Column Number](src/main/java/easy/p1__200/prob)| Easy |
 
 
-| 0160   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0170   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 
 | 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
 | 0206   |[Reverse Linked List](src/main/java/easy/p1__200/prob)| Easy |
