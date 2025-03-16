@@ -7,11 +7,11 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-101. add problem
+202 add problem
 future/add-202
 
-14. refactor
-future/refactor-14
+203. refactor
+future/refactor-21
 
 ### Уровень Easy
 
@@ -55,9 +55,10 @@ future/refactor-14
 | 0171   |[Excel Sheet Column Number](src/main/java/easy/p1__200/prob)| Easy |
 | 0190   |[Reverse Bits](src/main/java/easy/p1__200/prob)| Easy |
 | 0191   |[Number of 1 Bits](src/main/java/easy/p1__200/prob)| Easy |
+| 0202   |[Happy Number](src/main/java/easy/p1__200/prob)| Easy |
 
 
-| 0190   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+| 0200   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
 
 | 0205   |[Isomorphic Strings](src/main/java/easy/p1__200/prob)| Easy |
 | 0206   |[Reverse Linked List](src/main/java/easy/p1__200/prob)| Easy |
