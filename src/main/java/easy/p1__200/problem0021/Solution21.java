@@ -1,9 +1,32 @@
 package easy.p1__200.problem0021;
 
+import static org.junit.Assert.assertEquals;
+
+import common.LinkedListUtils;
 import common.ListNode;
+import java.util.Arrays;
 
 public class Solution21 {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+
+    public static ListNode mergeTwoListsTest(ListNode list1, ListNode list2) {
+        return mergeTwoLists(list1, list2);
+    }
+
+    public static void main(String[] args) {
+        ListNode listNode01 = LinkedListUtils.createSinglyLinkedList(Arrays.asList(1, 2, 3, 5));
+        ListNode listNode02 = LinkedListUtils.createSinglyLinkedList(Arrays.asList(2, 4, 6));
+        assertEquals(
+            LinkedListUtils.createSinglyLinkedList(Arrays.asList(1, 2, 2, 3, 4, 5, 6)),
+            mergeTwoLists(listNode01, listNode02));
+
+        ListNode listNode03 = LinkedListUtils.createSinglyLinkedList(Arrays.asList(1, 2, 3, 5));
+        ListNode listNode04 = LinkedListUtils.createSinglyLinkedList(Arrays.asList(2, 4, 6));
+        assertEquals(
+            LinkedListUtils.createSinglyLinkedList(Arrays.asList(1, 2, 2, 3, 4, 5, 6)),
+            mergeTwoListsTest(listNode03, listNode04));
+    }
+
+    public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null)
             return list2;
         if (list2 == null)
