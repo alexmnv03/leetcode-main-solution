@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 public class Solution28 {
 
     public static int strStrTest(String haystack, String needle) {
-        return 1;
+        return strStr(haystack, needle);
     }
 
     public static void main(String[] args) {
@@ -23,7 +23,7 @@ public class Solution28 {
         number = strStr(haystackTest, needleTest);
         assertEquals(0, number);
         numberTest = strStrTest(haystackTest, needleTest);
-        assertEquals(1, numberTest);
+        assertEquals(0, numberTest);
 
     }
 
