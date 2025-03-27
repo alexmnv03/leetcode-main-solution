@@ -1,7 +1,29 @@
 package easy.p1__200.problem0035;
 
+import static org.junit.Assert.assertEquals;
+
 public class Solution35 {
-    public int searchInsert(int[] nums, int target) {
+
+    public static int searchInsertTest(int[] nums, int target) {
+        return searchInsert(nums, target);
+    }
+
+    public static void main(String[] args) {
+        int[] nums01 = new int[] {1, 3, 5, 6};
+        int[] nums02 = new int[] {1};
+
+        assertEquals(2, searchInsert(nums01, 5));
+        assertEquals(0, searchInsert(nums02, 1));
+        assertEquals(1, searchInsert(nums01, 2));
+        assertEquals(4, searchInsert(nums01, 7));
+
+        assertEquals(2, searchInsertTest(nums01, 5));
+        assertEquals(0, searchInsertTest(nums02, 1));
+        assertEquals(1, searchInsertTest(nums01, 2));
+        assertEquals(4, searchInsertTest(nums01, 7));
+    }
+
+    public static int searchInsert(int[] nums, int target) {
         // Вариант решения с помощью двух указателей - обычный бинарный поиск
         // каждый раз делим массив пополам и берем нужныю половину и так пока не найдем искомое
         // место
