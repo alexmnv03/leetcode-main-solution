@@ -11,7 +11,7 @@ future/study-plan-75-level-01-three
 future/add-202
 
 203. refactor
-future/refactor-58
+future/refactor-98
 
 ### Уровень Easy
 
