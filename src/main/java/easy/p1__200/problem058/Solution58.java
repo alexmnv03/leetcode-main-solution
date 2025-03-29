@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 public class Solution58 {
 
     public static int lengthOfLastWordTest(String s) {
-        return 0;
+        return lengthOfLastWord(s);
     }
 
     public static void main(String[] args) {
