@@ -1,10 +1,53 @@
 package medium.p1__200.problem0098;
 
+import static org.junit.Assert.assertEquals;
+
 import common.TreeNode;
+import common.TreeUtils;
+import java.util.Arrays;
 
 public class Solution98 {
+    private static TreeNode root;
 
-    public boolean isValidBST(TreeNode root) {
+    public static boolean isValidBSTTest(TreeNode root) {
+        return isValidBST(root);
+    }
+
+    public static void main(String[] args) {
+        root = new TreeNode(2);
+        root.left = new TreeNode(1);
+        root.right = new TreeNode(3);
+        assertEquals(true, isValidBST(root));
+
+        root = new TreeNode(0);
+        assertEquals(true, isValidBST(root));
+
+        root = new TreeNode(1);
+        root.left = new TreeNode(1);
+        assertEquals(false, isValidBST(root));
+
+        root = TreeUtils.constructBinaryTree(Arrays.asList(5, 1, 7, null, null, 3, 8));
+        TreeUtils.printBinaryTree(root);
+        assertEquals(false, isValidBST(root));
+
+        //
+        root = new TreeNode(2);
+        root.left = new TreeNode(1);
+        root.right = new TreeNode(3);
+        assertEquals(true, isValidBSTTest(root));
+
+        root = new TreeNode(0);
+        assertEquals(true, isValidBSTTest(root));
+
+        root = new TreeNode(1);
+        root.left = new TreeNode(1);
+        assertEquals(false, isValidBSTTest(root));
+
+        root = TreeUtils.constructBinaryTree(Arrays.asList(5, 1, 7, null, null, 3, 8));
+        assertEquals(false, isValidBSTTest(root));
+    }
+
+    public static boolean isValidBST(TreeNode root) {
         // Необходимо проверить, что двоичное дерево валидно
         // т.е. в левом поддереве ключи должны быть строго меньше, а в правом строго больше
         // Алгоритм решения следующий определим диапазоны возможных значений для каждого поддерева
@@ -15,7 +58,7 @@ public class Solution98 {
         return isValid(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
     }
 
-    public boolean isValid(TreeNode node, Integer min, Integer max) {
+    public static boolean isValid(TreeNode node, Integer min, Integer max) {
         // Если ветка пустая, то возвращаем, что дерево валидное
         if (node == null)
             return true;
