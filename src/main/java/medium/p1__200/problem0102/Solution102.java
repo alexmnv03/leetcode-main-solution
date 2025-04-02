@@ -1,15 +1,55 @@
 package medium.p1__200.problem0102;
 
+import static org.junit.Assert.assertEquals;
+
+import common.CommonUtils;
 import common.TreeNode;
 
+import common.TreeUtils;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
 public class Solution102 {
 
-    public List<List<Integer>> levelOrder(TreeNode root) {
+    private static TreeNode treeRoot;
+
+    public static List<List<Integer>> levelOrderTest(TreeNode root) {
+        return levelOrder(root);
+    }
+
+    public static void main(String[] args) {
+        List<List<Integer>> list1 = List.of(
+            List.of(1),
+            List.of(2, 3)
+        );
+
+        List<List<Integer>> list2 = List.of(
+            List.of(3),
+            List.of(9, 20),
+            List.of(15, 7)
+        );
+
+        treeRoot = TreeUtils.constructBinaryTree(Arrays.asList(1, 2, 3));
+        TreeUtils.printBinaryTree(treeRoot);
+        //CommonUtils.printListList(levelOrder(treeRoot));
+
+        assertEquals(list1 , levelOrder(treeRoot));
+
+        treeRoot = TreeUtils.constructBinaryTree(Arrays.asList(3, 9, 20, null, null, 15, 7));
+        TreeUtils.printBinaryTree(treeRoot);
+        //CommonUtils.printListList(levelOrder(treeRoot));
+        assertEquals(list2, levelOrder(treeRoot));
+
+        treeRoot = TreeUtils.constructBinaryTree(Arrays.asList(1, 2, 3));
+        assertEquals(list1 , levelOrderTest(treeRoot));
+        treeRoot = TreeUtils.constructBinaryTree(Arrays.asList(3, 9, 20, null, null, 15, 7));
+        assertEquals(list2, levelOrderTest(treeRoot));
+    }
+
+    public static List<List<Integer>> levelOrder(TreeNode root) {
         // Если это новый уровень то создаем новый список и выходим
         if (root == null)
             return new ArrayList<>();
