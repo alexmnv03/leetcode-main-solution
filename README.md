@@ -7,7 +7,7 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-202 add problem
+2 add problem
 future/add-202
 
 203. refactor
