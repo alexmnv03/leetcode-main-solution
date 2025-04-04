@@ -1,10 +1,33 @@
 package medium.p1__200.problem0142;
 
+import static common.LinkedListUtils.createSinglyLinkedList;
+import static common.LinkedListUtils.printList;
+
 import common.ListNode;
+import java.util.Arrays;
 
 public class Solution142 {
 
-    public ListNode detectCycle(ListNode head) {
+    private static ListNode nodeRoot;
+    private static ListNode nodeResult;
+
+    public static ListNode detectCycleTest(ListNode head) {
+        // Не получилось сделать проверку
+        return createSinglyLinkedList(Arrays.asList(3,2,0,-4));
+    }
+
+    public static void main(String[] args) {
+
+
+        nodeRoot = createSinglyLinkedList(Arrays.asList(3,2,0,-4));
+
+        nodeResult = detectCycle(nodeRoot);
+        printList(nodeRoot);
+        printList(nodeResult);
+
+    }
+
+    public static ListNode detectCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
         while (fast != null && fast.next != null) {
