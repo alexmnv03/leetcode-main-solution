@@ -8,19 +8,19 @@ future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
 2 add problem
-future/add-202
+future/add-3
 
 203. refactor
-future/refactor-142
+future/refactor-20
 
 ### Уровень Easy
 
 | Номер  | название/ссылка   | уровень |
 |-|-|-|
 | 0001   |[Two Sum](src/main/java/easy/p1__200/problem0001)| Easy |
-| 0009   |[Palindrome Number](src/main/java/easy/p1__200/prob)| Easy |
-| 0013   |[Roman to Integer](src/main/java/easy/p1__200/prob)| Easy |
-| 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/prob)| Easy |
+| 0009   |[Palindrome Number](src/main/java/easy/p1__200/problem0009)| Easy |
+| 0013   |[Roman to Integer](src/main/java/easy/p1__200/problem0013)| Easy |
+| 0014   |[Longest Common Prefix](src/main/java/easy/p1__200/problem0014)| Easy |
 | 0020   |[Valid Parentheses](src/main/java/easy/p1__200/prob)| Easy |
 | 0021   |[Merge Two Sorted Lists](src/main/java/easy/p1__200/prob)| Easy |
 | 0026   |[Remove Duplicates from Sorted Array](src/main/java/easy/p1__200/prob)| Easy |
@@ -78,9 +78,15 @@ future/refactor-142
 | 1480   |[Running Sum of 1d Array](src/main/java/easy/p1401__1600/problem1480)| Easy |
 
 
+
+| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+
 ### Уровень Medium
 | Номер  | название/ссылка   | уровень |
 |-|-|-|
+| 0002   |[Add Two Numbers](src/main/java/medium/p1__200/problem02)| Medium |
+
+
 | 0098   |[Validate Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
 | 0102   |[Binary Tree Level Order Traversal](src/main/java/easy/p1__200/prob)| Medium |
 | 0113   |[Path Sum 2](src/main/java/easy/p1__200/prob)| Medium |
@@ -90,7 +96,9 @@ future/refactor-142
 
 
 
-| 0000   |[Roma](src/main/java/easy/p1__200/prob)| Easy |
+
+
+| 0000   |[Roma](src/main/java/medium/p1__200/prob)| Medium |
 
 
 
