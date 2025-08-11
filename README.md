@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-2 add problem
-future/add-3
+3 add problem
+future/add-5
 
 203. refactor
 future/refactor-20
@@ -85,6 +85,8 @@ future/refactor-20
 | Номер  | название/ссылка   | уровень |
 |-|-|-|
 | 0002   |[Add Two Numbers](src/main/java/medium/p1__200/problem02)| Medium |
+| 0003   |[Longest Substring Without Repeating Characters](src/main/java/medium/p1__200/problem03)| Medium |
+
 
 
 | 0098   |[Validate Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
