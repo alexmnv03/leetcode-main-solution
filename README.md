@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-3 add problem
-future/add-5
+5 add problem
+future/add-6
 
 203. refactor
 future/refactor-20
@@ -86,6 +86,7 @@ future/refactor-20
 |-|-|-|
 | 0002   |[Add Two Numbers](src/main/java/medium/p1__200/problem02)| Medium |
 | 0003   |[Longest Substring Without Repeating Characters](src/main/java/medium/p1__200/problem03)| Medium |
+| 0005   |[Longest Palindromic Substring](src/main/java/medium/p1__200/problem05)| Medium |
 
 
 
