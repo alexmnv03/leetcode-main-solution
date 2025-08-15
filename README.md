@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-7 add problem
-future/add-8
+8 add problem
+future/add-10
 
 203. refactor
 future/refactor-20
@@ -89,6 +89,7 @@ future/refactor-20
 | 0005   |[Longest Palindromic Substring](src/main/java/medium/p1__200/problem05)| Medium |
 | 0006   |[Zigzag Conversion](src/main/java/medium/p1__200/problem06)| Medium |
 | 0007   |[Reverse Integer](src/main/java/medium/p1__200/problem07)| Medium |
+| 0008   |[String to Integer (atoi)](src/main/java/medium/p1__200/problem08)| Medium |
 
 
 
