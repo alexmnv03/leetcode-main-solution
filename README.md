@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-12 add problem
-future/add-15
+15 add problem
+future/add-16
 
 203. refactor
 future/refactor-20
@@ -92,6 +92,8 @@ future/refactor-20
 | 0008   |[String to Integer (atoi)](src/main/java/medium/p1__200/problem08)| Medium |
 | 0011   |[Container With Most Water](src/main/java/medium/p1__200/problem11)| Medium |
 | 0012   |[Integer to Roman](src/main/java/medium/p1__200/problem12)| Medium |
+| 0015   |[3Sum](src/main/java/medium/p1__200/problem15)| Medium |
+
 
 
 | 0098   |[Validate Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
