@@ -5,7 +5,6 @@ import static org.junit.Assert.assertEquals;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import medium.p1__200.problem11.Solution11;
 
 public class Solution17 {
 
