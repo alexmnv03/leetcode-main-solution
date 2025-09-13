@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-24 add problem
-future/add-29
+29 add problem
+future/add-31
 
 203. refactor
 future/refactor-20
@@ -99,7 +99,7 @@ future/refactor-20
 | 0019   |[Remove Nth Node From End of List](src/main/java/medium/p1__200/problem19)| Medium |
 | 0022   |[Generate Parentheses](src/main/java/medium/p1__200/problem22)| Medium |
 | 0024   |[Swap Nodes in Pairs](src/main/java/medium/p1__200/problem24)| Medium |
-
+| 0029   |[Divide Two Integers](src/main/java/medium/p1__200/problem29)| Medium |
 
 
 
