@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-33 add problem
-future/add-36
+36 add problem
+future/add-34
 
 203. refactor
 future/refactor-20
@@ -103,6 +103,7 @@ future/refactor-20
 | 0031   |[Next Permutation](src/main/java/medium/p1__200/problem31)| Medium |
 | 0033   |[Search in Rotated Sorted Array](src/main/java/medium/p1__200/problem33)| Medium |
 
+| 0036   |[Valid Sudoku](src/main/java/medium/p1__200/problem36)| Medium |
 
 
 
