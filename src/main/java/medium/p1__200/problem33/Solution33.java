@@ -2,7 +2,6 @@ package medium.p1__200.problem33;
 
 import static org.junit.Assert.assertEquals;
 
-import medium.p1__200.problem29.Solution29;
 
 public class Solution33 {
 
