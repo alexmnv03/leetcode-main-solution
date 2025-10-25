@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-34 add problem
-future/add-38
+38 add problem
+future/add-39
 
 203. refactor
 future/refactor-20
@@ -104,6 +104,7 @@ future/refactor-20
 | 0033   |[Search in Rotated Sorted Array](src/main/java/medium/p1__200/problem33)| Medium |
 | 0034   |[Find First and Last Position of Element in Sorted Array](src/main/java/medium/p1__200/problem34)| Medium |
 | 0036   |[Valid Sudoku](src/main/java/medium/p1__200/problem36)| Medium |
+| 0038   |[Count and Say](src/main/java/medium/p1__200/problem38)| Medium |
 
 
 
