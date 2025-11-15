@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-39 add problem
-future/add-40
+40 add problem
+future/add-43
 
 203. refactor
 future/refactor-20
@@ -106,6 +106,8 @@ future/refactor-20
 | 0036   |[Valid Sudoku](src/main/java/medium/p1__200/problem36)| Medium |
 | 0038   |[Count and Say](src/main/java/medium/p1__200/problem38)| Medium |
 | 0039   |[Combination Sum](src/main/java/medium/p1__200/problem39)| Medium |
+| 0040   |[Combination Sum II](src/main/java/medium/p1__200/problem40)| Medium |
+
 
 
 | 0098   |[Validate Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
