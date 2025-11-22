@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-40 add problem
-future/add-43
+43 add problem
+future/add-45
 
 203. refactor
 future/refactor-20
@@ -107,6 +107,7 @@ future/refactor-20
 | 0038   |[Count and Say](src/main/java/medium/p1__200/problem38)| Medium |
 | 0039   |[Combination Sum](src/main/java/medium/p1__200/problem39)| Medium |
 | 0040   |[Combination Sum II](src/main/java/medium/p1__200/problem40)| Medium |
+| 0043   |[Multiply Strings](src/main/java/medium/p1__200/problem43)| Medium |
 
 
 
