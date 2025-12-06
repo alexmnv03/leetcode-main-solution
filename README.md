@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-45 add problem
-future/add-46
+46 add problem
+future/add-47
 
 203. refactor
 future/refactor-20
@@ -109,6 +109,8 @@ future/refactor-20
 | 0040   |[Combination Sum II](src/main/java/medium/p1__200/problem40)| Medium |
 | 0043   |[Multiply Strings](src/main/java/medium/p1__200/problem43)| Medium |
 | 0045   |[Jump Game II](src/main/java/medium/p1__200/problem45)| Medium |
+| 0046   |[Permutations](src/main/java/medium/p1__200/problem46)| Medium |
+
 
 
 | 0098   |[Validate Binary Search Tree](src/main/java/easy/p1__200/prob)| Medium |
