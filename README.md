@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-47 add problem
-future/add-48
+48 add problem
+future/add-49
 
 203. refactor
 future/refactor-20
@@ -111,6 +111,7 @@ future/refactor-20
 | 0045   |[Jump Game II](src/main/java/medium/p1__200/problem45)| Medium |
 | 0046   |[Permutations](src/main/java/medium/p1__200/problem46)| Medium |
 | 0047   |[Permutations II](src/main/java/medium/p1__200/problem47)| Medium |
+| 0048   |[Rotate Image](src/main/java/medium/p1__200/problem48)| Medium |
 
 
 
