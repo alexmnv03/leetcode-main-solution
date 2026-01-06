@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-49 add problem
-future/add-50
+50 add problem
+future/add-53
 
 203. refactor
 future/refactor-20
@@ -113,6 +113,7 @@ future/refactor-20
 | 0047   |[Permutations II](src/main/java/medium/p1__200/problem47)| Medium |
 | 0048   |[Rotate Image](src/main/java/medium/p1__200/problem48)| Medium |
 | 0049   |[Group Anagrams](src/main/java/medium/p1__200/problem49)| Medium |
+| 0050   |[Pow(x, n)](src/main/java/medium/p1__200/problem50)| Medium |
 
 
 
@@ -128,7 +129,7 @@ future/refactor-20
 
 
 
-| 0050   |[Roma](src/main/java/medium/p1__200/problem4)| Medium |
+| 0050   |[Roma](src/main/java/medium/p1__200/problem5)| Medium |
 
 
 
