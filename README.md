@@ -7,8 +7,8 @@
 future/study-plan-75-level-01
 future/study-plan-75-level-01-three
 
-55 add problem
-future/add-56
+56 add problem
+future/add-57
 
 203. refactor
 future/refactor-20
@@ -117,6 +117,7 @@ future/refactor-20
 | 0053   |[Maximum Subarray](src/main/java/medium/p1__200/problem53)| Medium |
 | 0054   |[Spiral Matrix](src/main/java/medium/p1__200/problem54)| Medium |
 | 0055   |[Jump Game](src/main/java/medium/p1__200/problem55)| Medium |
+| 0056   |[Merge Intervals](src/main/java/medium/p1__200/problem56)| Medium |
 
 
 
